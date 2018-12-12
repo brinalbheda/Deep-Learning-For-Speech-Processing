@@ -1,0 +1,35 @@
+
+\data\
+ngram 1=7
+ngram 2=18
+
+\1-grams:
+-0.60206	</s>
+-99	<s>	-1.804476
+-0.9610819	I	-0.8044802
+-0.7269987	computer	-1.021189
+-0.90309	games	-0.7542785
+-0.6922366	like	-0.7756765
+-0.90309	vision	-0.6415743
+
+\2-grams:
+-0.3853509	<s> I
+-0.6661775	<s> computer
+-1.176091	<s> games
+-0.6283889	<s> like
+-1.176091	<s> vision
+-0.05799195	I like
+-0.5818566	computer </s>
+-0.5818566	computer games
+-0.3679768	computer vision
+-0.1091445	games </s>
+-0.8998848	games like
+-1.09177	like </s>
+-0.1918855	like computer
+-0.845098	like games
+-1.09177	like vision
+-0.2552725	vision </s>
+-0.6532125	vision games
+-0.8998848	vision like
+
+\end\
